@@ -1,0 +1,12 @@
+{
+  "cache": {
+    "last_chat": "привет"
+  },
+  "archive": {},
+  "weights": {
+    "last_chat": 1.1
+  },
+  "magic_field": {
+    "intuition_bias": 0.36999999999999966
+  }
+}

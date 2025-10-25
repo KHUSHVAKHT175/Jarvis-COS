@@ -1,3 +1,3 @@
 class LogicModule: 
     def think(self): 
-        print("‹®£¨ª : ¬®¤ã«ì § ¯ãé¥­.") 
+        print("Ð›Ð¾Ð³Ð¸ÐºÐ°: Ð¼Ð¾Ð´ÑƒÐ»ÑŒ Ð·Ð°Ð¿ÑƒÑ‰ÐµÐ½.") 

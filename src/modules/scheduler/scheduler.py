@@ -1,3 +1,3 @@
-class SchedulerModule: 
-    def schedule(self): 
-        print("Планировщик: модуль запущен.") 
+class SchedulerModule:
+    def schedule(self):
+        print("╨Я╨╗╨░╨╜╨╕╤А╨╛╨▓╤Й╨╕╨║: ╨╝╨╛╨┤╤Г╨╗╤М ╨╖╨░╨┐╤Г╤Й╨╡╨╜.")
