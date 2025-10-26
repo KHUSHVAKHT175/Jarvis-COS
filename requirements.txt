@@ -1,2 +1,7 @@
 # Минимальные зависимости
-# Например: none
+# ?? requirements.txt
+
+colorama>=0.4.6
+pytest>=7.4.0
+requests>=2.31.0
+tqdm>=4.66.0
